@@ -1,0 +1,5 @@
+configuration {
+	theme: "/usr/share/rofi/themes/onedark.rasi";
+	show-icons: true;
+	icon-theme: "Papirus";
+}
