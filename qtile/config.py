@@ -1,5 +1,5 @@
 # *************************** #
-# Configuracion del manchitas #
+# Configuracion de Cristian   #
 # *************************** #
 from typing import List  
 from libqtile import bar, layout, widget
